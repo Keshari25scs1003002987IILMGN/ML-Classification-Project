@@ -1,0 +1,16 @@
+{
+  "model": "SVM (RBF)",
+  "metrics": {
+    "Accuracy": 0.9737,
+    "Precision": 1.0,
+    "Recall": 0.9286,
+    "F1": 0.963,
+    "ROC-AUC": 0.9927
+  },
+  "confusion_matrix": {
+    "TN": 72,
+    "FP": 0,
+    "FN": 3,
+    "TP": 39
+  }
+}
